@@ -6,7 +6,7 @@ import { Hello } from "../components/Hello";
 const App = () => {
     return (
         <div>
-            // make sure Typescript is working by using number type
+            {/* make sure Typescript is working by using number type */}
             <Hello compiler="Parcel" framework="React" />
         </div>
     );
